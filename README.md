@@ -4,6 +4,11 @@
 ## Requirements
 [WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) >= 1.21.0
 
+## Installation
+1. Download the [latest](https://github.com/chromamods/WindowsGSM.FabricMC/releases/latest) release
+1. Move **PaperMC.cs** folder to **plugins** folder
+1. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
+
 ## Notes
 
 Once a server is installed, be sure to change the launch arguments WITHIN WindowsGSM otherwise the server will launch without arguments. 
